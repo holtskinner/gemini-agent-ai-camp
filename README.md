@@ -6,7 +6,7 @@ Each notebook is self-contained and demonstrates a different approach to working
 
 ## Prompt-based approach
 
-<a target="_blank" href="https://colab.research.google.com/github/koverholt/gemini-agent-ai-camp/blob/main/1-prompt-essay/prompt-essay.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/holtskinner/gemini-agent-ai-camp/blob/main/1-prompt-essay/prompt-essay.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -16,7 +16,7 @@ A simple approach to generating content with a single prompt using the Gemini AP
 
 ## LangChain approach
 
-<a target="_blank" href="https://colab.research.google.com/github/koverholt/gemini-agent-ai-camp/blob/main/2-langchain-essay/langchain-essay.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/holtskinner/gemini-agent-ai-camp/blob/main/2-langchain-essay/langchain-essay.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -26,7 +26,7 @@ This notebook expands on the prompt-based approach by integrating LangChain to c
 
 ## LangGraph approach
 
-<a target="_blank" href="https://colab.research.google.com/github/koverholt/gemini-agent-ai-camp/blob/main/3-langgraph-essay/langgraph-essay.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/holtskinner/gemini-agent-ai-camp/blob/main/3-langgraph-essay/langgraph-essay.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
